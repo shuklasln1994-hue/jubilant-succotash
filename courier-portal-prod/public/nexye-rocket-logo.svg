@@ -1,0 +1,11 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="200" height="50" fill="#FFF0E0"/>
+  <!-- Rocket Body -->
+  <path d="M80 10 L90 20 L90 40 L70 40 L70 20 L80 10 Z" fill="#FF5733"/>
+  <!-- Rocket Fins -->
+  <polygon points="70 40, 60 45, 70 35" fill="#FF5733"/>
+  <polygon points="90 40, 100 45, 90 35" fill="#FF5733"/>
+  <!-- Rocket Top -->
+  <polygon points="80 10, 75 5, 85 5" fill="#FF5733"/>
+  <text x="100" y="30" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#000000">Nexye</text>
+</svg>

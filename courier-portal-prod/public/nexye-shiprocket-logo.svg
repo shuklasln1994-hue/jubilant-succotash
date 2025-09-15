@@ -1,0 +1,8 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="200" height="50" fill="#FFFFFF"/>
+  <!-- Play button icon (similar to Shiprocket) -->
+  <path d="M20 15 L40 25 L20 35 Z" fill="#39FF14"/>
+  <path d="M45 10 L25 0 L5 10 L25 20 L45 10 Z" fill="#6A0DAD"/>
+  <path d="M45 10 L25 20 L5 30 L25 40 L45 30 Z" fill="#6A0DAD"/>
+  <text x="50" y="30" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#333333">NEXYE</text>
+</svg>
